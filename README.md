@@ -15,3 +15,5 @@
 - [206. Reverse Linked List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/206.%20Reverse%20Linked%20List.md)
 - [234. Palindrome Linked List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/234.%20Palindrome%20Linked%20List.md)
 - [876. Middle of the Linked List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/876.%20Middle%20of%20the%20Linked%20List.md)
+### Binary Tree
+- [144. Binary Tree Preorder Traversal](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/144.%20Binary%20Tree%20Preorder%20Traversal.md)
