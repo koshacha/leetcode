@@ -16,6 +16,8 @@ jobs:
           bash .bash/generate-readme.sh "$(cat .bash/readme-template.md)" > README.md
 
       - name: Commit changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACTIONS_TOKEN }}
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
