@@ -13,8 +13,7 @@ jobs:
 
       - name: Run the script
         run: |
-          chmod +x generate-readme.sh
-          ./generate-readme.sh > README.md
+          sh .bash/generate-readme.sh "$(cat .bash/readme-template.md)" > README.md
 
       - name: Commit changes
         run: |
