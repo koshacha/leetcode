@@ -5,6 +5,11 @@
 - 👨‍💻 [My Account](https://leetcode.com/koshacha/)
 - 🚀 Languages used: mostly TypeScript and JavaScript.
 
+## List of Topics
+
+[1. Linked List](#linked-list)
+[1. Binary Tree](#binary-tree)
+
 ## Solutions
 
 ### Linked List
