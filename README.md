@@ -7,7 +7,7 @@
 
 ## Solutions
 
-## Linked List
+### Linked List
 - [19. Remove Nth Node From End of List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
 - [143. Reorder List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/143.%20Reorder%20List.md)
 - [206. Reverse Linked List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/206.%20Reverse%20Linked%20List.md)
