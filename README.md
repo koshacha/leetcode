@@ -10,6 +10,7 @@
 ### Solutions
 
 #### Linked List
+- [2. Add Two Numbers](https://github.com/koshacha/leetcode/blob/main/Linked%20List/2.%20Add%20Two%20Numbers.md)
 - [19. Remove Nth Node From End of List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
 - [21. Merge Two Sorted Lists](https://github.com/koshacha/leetcode/blob/main/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists.md)
 - [23. Merge k Sorted Lists](https://github.com/koshacha/leetcode/blob/main/Linked%20List/23.%20Merge%20k%20Sorted%20Lists.md)
@@ -18,6 +19,9 @@
 - [234. Palindrome Linked List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/234.%20Palindrome%20Linked%20List.md)
 - [876. Middle of the Linked List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/876.%20Middle%20of%20the%20Linked%20List.md)
 #### Binary Tree
+- [104. Maximum Depth of Binary Tree](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)
+- [109. Convert Sorted List to Binary Search Tree](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.md)
+- [114. Flatten Binary Tree to Linked List](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md)
 - [144. Binary Tree Preorder Traversal](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/144.%20Binary%20Tree%20Preorder%20Traversal.md)
 
 ![akarin laughing](.bash/yuruyuri.gif)
