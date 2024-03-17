@@ -20,10 +20,14 @@
 - [876. Middle of the Linked List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/876.%20Middle%20of%20the%20Linked%20List.md)
 #### Binary Tree
 - [100. Same Tree](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/100.%20Same%20Tree.md)
+- [101. Symmetric Tree](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/101.%20Symmetric%20Tree.md)
+- [102. Binary Tree Level Order Traversal](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/102.%20Binary%20Tree%20Level%20Order%20Traversal.md)
 - [104. Maximum Depth of Binary Tree](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)
 - [109. Convert Sorted List to Binary Search Tree](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.md)
+- [112. Path Sum](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/112.%20Path%20Sum.md)
 - [114. Flatten Binary Tree to Linked List](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md)
 - [124. Binary Tree Maximum Path Sum](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md)
 - [144. Binary Tree Preorder Traversal](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/144.%20Binary%20Tree%20Preorder%20Traversal.md)
+- [199. Binary Tree Right Side View](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/199.%20Binary%20Tree%20Right%20Side%20View.md)
 
 ![akarin laughing](.bash/yuruyuri.gif)
