@@ -5,6 +5,7 @@
 ### List of Topics
 
 1. [Linked List](#linked-list)
+1. [JavaScript](#javascript)
 1. [Array](#array)
 1. [Binary Tree](#binary-tree)
 
@@ -19,10 +20,13 @@
 - [206. Reverse Linked List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/206.%20Reverse%20Linked%20List.md)
 - [234. Palindrome Linked List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/234.%20Palindrome%20Linked%20List.md)
 - [876. Middle of the Linked List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/876.%20Middle%20of%20the%20Linked%20List.md)
+#### JavaScript
+- [2631. Group By](https://github.com/koshacha/leetcode/blob/main/JavaScript/2631.%20Group%20By.md)
 #### Array
 - [303. Range Sum Query - Immutable](https://github.com/koshacha/leetcode/blob/main/Array/303.%20Range%20Sum%20Query%20-%20Immutable.md)
 - [724. Find Pivot Index](https://github.com/koshacha/leetcode/blob/main/Array/724.%20Find%20Pivot%20Index.md)
 #### Binary Tree
+- [98. Validate Binary Search Tree](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/98.%20Validate%20Binary%20Search%20Tree.md)
 - [100. Same Tree](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/100.%20Same%20Tree.md)
 - [101. Symmetric Tree](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/101.%20Symmetric%20Tree.md)
 - [102. Binary Tree Level Order Traversal](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/102.%20Binary%20Tree%20Level%20Order%20Traversal.md)
