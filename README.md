@@ -4,19 +4,13 @@
 
 ### List of Topics
 
-1. [JavaScript](#javascript)
-1. [Array](#array)
 1. [Linked List](#linked-list)
 1. [Binary Tree](#binary-tree)
+1. [Array](#array)
+1. [JavaScript](#javascript)
 
 ### Solutions
 
-#### JavaScript
-- [2631. Group By](https://github.com/koshacha/leetcode/blob/main/JavaScript/2631.%20Group%20By.md)
-- [2715. Timeout Cancellation](https://github.com/koshacha/leetcode/blob/main/JavaScript/2715.%20Timeout%20Cancellation.md)
-#### Array
-- [303. Range Sum Query - Immutable](https://github.com/koshacha/leetcode/blob/main/Array/303.%20Range%20Sum%20Query%20-%20Immutable.md)
-- [724. Find Pivot Index](https://github.com/koshacha/leetcode/blob/main/Array/724.%20Find%20Pivot%20Index.md)
 #### Linked List
 - [2. Add Two Numbers](https://github.com/koshacha/leetcode/blob/main/Linked%20List/2.%20Add%20Two%20Numbers.md)
 - [19. Remove Nth Node From End of List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
@@ -40,5 +34,12 @@
 - [124. Binary Tree Maximum Path Sum](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md)
 - [144. Binary Tree Preorder Traversal](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/144.%20Binary%20Tree%20Preorder%20Traversal.md)
 - [199. Binary Tree Right Side View](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/199.%20Binary%20Tree%20Right%20Side%20View.md)
+#### Array
+- [303. Range Sum Query - Immutable](https://github.com/koshacha/leetcode/blob/main/Array/303.%20Range%20Sum%20Query%20-%20Immutable.md)
+- [724. Find Pivot Index](https://github.com/koshacha/leetcode/blob/main/Array/724.%20Find%20Pivot%20Index.md)
+#### JavaScript
+- [2631. Group By](https://github.com/koshacha/leetcode/blob/main/JavaScript/2631.%20Group%20By.md)
+- [2634. Filter Elements from Array](https://github.com/koshacha/leetcode/blob/main/JavaScript/2634.%20Filter%20Elements%20from%20Array.md)
+- [2715. Timeout Cancellation](https://github.com/koshacha/leetcode/blob/main/JavaScript/2715.%20Timeout%20Cancellation.md)
 
 ![akarin laughing](.bash/yuruyuri.gif)
