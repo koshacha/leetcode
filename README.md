@@ -5,6 +5,7 @@
 ### List of Topics
 
 1. [Array](#array)
+1. [Math](#math)
 1. [Linked List](#linked-list)
 1. [JavaScript](#javascript)
 1. [Binary Tree](#binary-tree)
@@ -15,6 +16,8 @@
 - [1. Two Sum](https://github.com/koshacha/leetcode/blob/main/Array/1.%20Two%20Sum.md)
 - [303. Range Sum Query - Immutable](https://github.com/koshacha/leetcode/blob/main/Array/303.%20Range%20Sum%20Query%20-%20Immutable.md)
 - [724. Find Pivot Index](https://github.com/koshacha/leetcode/blob/main/Array/724.%20Find%20Pivot%20Index.md)
+#### Math
+- [9. Palindrome Number](https://github.com/koshacha/leetcode/blob/main/Math/9.%20Palindrome%20Number.md)
 #### Linked List
 - [2. Add Two Numbers](https://github.com/koshacha/leetcode/blob/main/Linked%20List/2.%20Add%20Two%20Numbers.md)
 - [19. Remove Nth Node From End of List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
