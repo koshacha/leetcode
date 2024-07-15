@@ -5,6 +5,7 @@
 ### List of Topics
 
 1. [Array](#array)
+1. [Two Pointers](#two-pointers)
 1. [Math](#math)
 1. [Linked List](#linked-list)
 1. [JavaScript](#javascript)
@@ -16,6 +17,8 @@
 - [1. Two Sum](https://github.com/koshacha/leetcode/blob/main/Array/1.%20Two%20Sum.md)
 - [303. Range Sum Query - Immutable](https://github.com/koshacha/leetcode/blob/main/Array/303.%20Range%20Sum%20Query%20-%20Immutable.md)
 - [724. Find Pivot Index](https://github.com/koshacha/leetcode/blob/main/Array/724.%20Find%20Pivot%20Index.md)
+#### Two Pointers
+- [283. Move Zeroes](https://github.com/koshacha/leetcode/blob/main/Two%20Pointers/283.%20Move%20Zeroes.md)
 #### Math
 - [9. Palindrome Number](https://github.com/koshacha/leetcode/blob/main/Math/9.%20Palindrome%20Number.md)
 #### Linked List
