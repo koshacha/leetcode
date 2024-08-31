@@ -8,6 +8,7 @@
 1. [Math](#math)
 1. [Array](#array)
 1. [Linked List](#linked-list)
+1. [Graph](#graph)
 1. [Binary Tree](#binary-tree)
 1. [Two Pointers](#two-pointers)
 
@@ -38,6 +39,8 @@
 - [206. Reverse Linked List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/206.%20Reverse%20Linked%20List.md)
 - [234. Palindrome Linked List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/234.%20Palindrome%20Linked%20List.md)
 - [876. Middle of the Linked List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/876.%20Middle%20of%20the%20Linked%20List.md)
+#### Graph
+- [1514. Path with Maximum Probability](https://github.com/koshacha/leetcode/blob/main/Graph/1514.%20Path%20with%20Maximum%20Probability.md)
 #### Binary Tree
 - [98. Validate Binary Search Tree](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/98.%20Validate%20Binary%20Search%20Tree.md)
 - [100. Same Tree](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/100.%20Same%20Tree.md)
