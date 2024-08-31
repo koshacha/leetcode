@@ -17,6 +17,7 @@
 - [2619. Array Prototype Last](https://github.com/koshacha/leetcode/blob/main/JavaScript/2619.%20Array%20Prototype%20Last.md)
 - [2620. Counter](https://github.com/koshacha/leetcode/blob/main/JavaScript/2620.%20Counter.md)
 - [2625. Flatten Deeply Nested Array](https://github.com/koshacha/leetcode/blob/main/JavaScript/2625.%20Flatten%20Deeply%20Nested%20Array.md)
+- [2626. Array Reduce Transformation](https://github.com/koshacha/leetcode/blob/main/JavaScript/2626.%20Array%20Reduce%20Transformation.md)
 - [2627. Debounce](https://github.com/koshacha/leetcode/blob/main/JavaScript/2627.%20Debounce.md)
 - [2629. Function Composition](https://github.com/koshacha/leetcode/blob/main/JavaScript/2629.%20Function%20Composition.md)
 - [2631. Group By](https://github.com/koshacha/leetcode/blob/main/JavaScript/2631.%20Group%20By.md)
