@@ -5,6 +5,7 @@
 ### List of Topics
 
 1. [JavaScript](#javascript)
+1. [String](#string)
 1. [Math](#math)
 1. [Array](#array)
 1. [Linked List](#linked-list)
@@ -24,6 +25,8 @@
 - [2631. Group By](https://github.com/koshacha/leetcode/blob/main/JavaScript/2631.%20Group%20By.md)
 - [2634. Filter Elements from Array](https://github.com/koshacha/leetcode/blob/main/JavaScript/2634.%20Filter%20Elements%20from%20Array.md)
 - [2715. Timeout Cancellation](https://github.com/koshacha/leetcode/blob/main/JavaScript/2715.%20Timeout%20Cancellation.md)
+#### String
+- [1945. Sum of Digits of String After Convert](https://github.com/koshacha/leetcode/blob/main/String/1945.%20Sum%20of%20Digits%20of%20String%20After%20Convert.md)
 #### Math
 - [9. Palindrome Number](https://github.com/koshacha/leetcode/blob/main/Math/9.%20Palindrome%20Number.md)
 #### Array
