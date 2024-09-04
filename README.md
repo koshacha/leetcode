@@ -33,6 +33,7 @@
 - [1. Two Sum](https://github.com/koshacha/leetcode/blob/main/Array/1.%20Two%20Sum.md)
 - [303. Range Sum Query - Immutable](https://github.com/koshacha/leetcode/blob/main/Array/303.%20Range%20Sum%20Query%20-%20Immutable.md)
 - [724. Find Pivot Index](https://github.com/koshacha/leetcode/blob/main/Array/724.%20Find%20Pivot%20Index.md)
+- [874. Walking Robot Simulation](https://github.com/koshacha/leetcode/blob/main/Array/874.%20Walking%20Robot%20Simulation.md)
 - [1894. Find the Student that Will Replace the Chalk](https://github.com/koshacha/leetcode/blob/main/Array/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk.md)
 - [2022. Convert 1D Array Into 2D Array](https://github.com/koshacha/leetcode/blob/main/Array/2022.%20Convert%201D%20Array%20Into%202D%20Array.md)
 #### Linked List
