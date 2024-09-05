@@ -4,31 +4,21 @@
 
 ### List of Topics
 
-1. [JavaScript](#javascript)
+1. [Two Pointers](#two-pointers)
+1. [Graph](#graph)
+1. [Array](#array)
+1. [Binary Tree](#binary-tree)
 1. [String](#string)
 1. [Math](#math)
-1. [Array](#array)
 1. [Linked List](#linked-list)
-1. [Graph](#graph)
-1. [Binary Tree](#binary-tree)
-1. [Two Pointers](#two-pointers)
+1. [JavaScript](#javascript)
 
 ### Solutions
 
-#### JavaScript
-- [2619. Array Prototype Last](https://github.com/koshacha/leetcode/blob/main/JavaScript/2619.%20Array%20Prototype%20Last.md)
-- [2620. Counter](https://github.com/koshacha/leetcode/blob/main/JavaScript/2620.%20Counter.md)
-- [2625. Flatten Deeply Nested Array](https://github.com/koshacha/leetcode/blob/main/JavaScript/2625.%20Flatten%20Deeply%20Nested%20Array.md)
-- [2626. Array Reduce Transformation](https://github.com/koshacha/leetcode/blob/main/JavaScript/2626.%20Array%20Reduce%20Transformation.md)
-- [2627. Debounce](https://github.com/koshacha/leetcode/blob/main/JavaScript/2627.%20Debounce.md)
-- [2629. Function Composition](https://github.com/koshacha/leetcode/blob/main/JavaScript/2629.%20Function%20Composition.md)
-- [2631. Group By](https://github.com/koshacha/leetcode/blob/main/JavaScript/2631.%20Group%20By.md)
-- [2634. Filter Elements from Array](https://github.com/koshacha/leetcode/blob/main/JavaScript/2634.%20Filter%20Elements%20from%20Array.md)
-- [2715. Timeout Cancellation](https://github.com/koshacha/leetcode/blob/main/JavaScript/2715.%20Timeout%20Cancellation.md)
-#### String
-- [1945. Sum of Digits of String After Convert](https://github.com/koshacha/leetcode/blob/main/String/1945.%20Sum%20of%20Digits%20of%20String%20After%20Convert.md)
-#### Math
-- [9. Palindrome Number](https://github.com/koshacha/leetcode/blob/main/Math/9.%20Palindrome%20Number.md)
+#### Two Pointers
+- [283. Move Zeroes](https://github.com/koshacha/leetcode/blob/main/Two%20Pointers/283.%20Move%20Zeroes.md)
+#### Graph
+- [1514. Path with Maximum Probability](https://github.com/koshacha/leetcode/blob/main/Graph/1514.%20Path%20with%20Maximum%20Probability.md)
 #### Array
 - [1. Two Sum](https://github.com/koshacha/leetcode/blob/main/Array/1.%20Two%20Sum.md)
 - [303. Range Sum Query - Immutable](https://github.com/koshacha/leetcode/blob/main/Array/303.%20Range%20Sum%20Query%20-%20Immutable.md)
@@ -36,17 +26,7 @@
 - [874. Walking Robot Simulation](https://github.com/koshacha/leetcode/blob/main/Array/874.%20Walking%20Robot%20Simulation.md)
 - [1894. Find the Student that Will Replace the Chalk](https://github.com/koshacha/leetcode/blob/main/Array/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk.md)
 - [2022. Convert 1D Array Into 2D Array](https://github.com/koshacha/leetcode/blob/main/Array/2022.%20Convert%201D%20Array%20Into%202D%20Array.md)
-#### Linked List
-- [2. Add Two Numbers](https://github.com/koshacha/leetcode/blob/main/Linked%20List/2.%20Add%20Two%20Numbers.md)
-- [19. Remove Nth Node From End of List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
-- [21. Merge Two Sorted Lists](https://github.com/koshacha/leetcode/blob/main/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists.md)
-- [23. Merge k Sorted Lists](https://github.com/koshacha/leetcode/blob/main/Linked%20List/23.%20Merge%20k%20Sorted%20Lists.md)
-- [143. Reorder List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/143.%20Reorder%20List.md)
-- [206. Reverse Linked List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/206.%20Reverse%20Linked%20List.md)
-- [234. Palindrome Linked List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/234.%20Palindrome%20Linked%20List.md)
-- [876. Middle of the Linked List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/876.%20Middle%20of%20the%20Linked%20List.md)
-#### Graph
-- [1514. Path with Maximum Probability](https://github.com/koshacha/leetcode/blob/main/Graph/1514.%20Path%20with%20Maximum%20Probability.md)
+- [2028. Find Missing Observations](https://github.com/koshacha/leetcode/blob/main/Array/2028.%20Find%20Missing%20Observations.md)
 #### Binary Tree
 - [98. Validate Binary Search Tree](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/98.%20Validate%20Binary%20Search%20Tree.md)
 - [100. Same Tree](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/100.%20Same%20Tree.md)
@@ -61,7 +41,28 @@
 - [124. Binary Tree Maximum Path Sum](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md)
 - [144. Binary Tree Preorder Traversal](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/144.%20Binary%20Tree%20Preorder%20Traversal.md)
 - [199. Binary Tree Right Side View](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/199.%20Binary%20Tree%20Right%20Side%20View.md)
-#### Two Pointers
-- [283. Move Zeroes](https://github.com/koshacha/leetcode/blob/main/Two%20Pointers/283.%20Move%20Zeroes.md)
+#### String
+- [1945. Sum of Digits of String After Convert](https://github.com/koshacha/leetcode/blob/main/String/1945.%20Sum%20of%20Digits%20of%20String%20After%20Convert.md)
+#### Math
+- [9. Palindrome Number](https://github.com/koshacha/leetcode/blob/main/Math/9.%20Palindrome%20Number.md)
+#### Linked List
+- [2. Add Two Numbers](https://github.com/koshacha/leetcode/blob/main/Linked%20List/2.%20Add%20Two%20Numbers.md)
+- [19. Remove Nth Node From End of List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
+- [21. Merge Two Sorted Lists](https://github.com/koshacha/leetcode/blob/main/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists.md)
+- [23. Merge k Sorted Lists](https://github.com/koshacha/leetcode/blob/main/Linked%20List/23.%20Merge%20k%20Sorted%20Lists.md)
+- [143. Reorder List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/143.%20Reorder%20List.md)
+- [206. Reverse Linked List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/206.%20Reverse%20Linked%20List.md)
+- [234. Palindrome Linked List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/234.%20Palindrome%20Linked%20List.md)
+- [876. Middle of the Linked List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/876.%20Middle%20of%20the%20Linked%20List.md)
+#### JavaScript
+- [2619. Array Prototype Last](https://github.com/koshacha/leetcode/blob/main/JavaScript/2619.%20Array%20Prototype%20Last.md)
+- [2620. Counter](https://github.com/koshacha/leetcode/blob/main/JavaScript/2620.%20Counter.md)
+- [2625. Flatten Deeply Nested Array](https://github.com/koshacha/leetcode/blob/main/JavaScript/2625.%20Flatten%20Deeply%20Nested%20Array.md)
+- [2626. Array Reduce Transformation](https://github.com/koshacha/leetcode/blob/main/JavaScript/2626.%20Array%20Reduce%20Transformation.md)
+- [2627. Debounce](https://github.com/koshacha/leetcode/blob/main/JavaScript/2627.%20Debounce.md)
+- [2629. Function Composition](https://github.com/koshacha/leetcode/blob/main/JavaScript/2629.%20Function%20Composition.md)
+- [2631. Group By](https://github.com/koshacha/leetcode/blob/main/JavaScript/2631.%20Group%20By.md)
+- [2634. Filter Elements from Array](https://github.com/koshacha/leetcode/blob/main/JavaScript/2634.%20Filter%20Elements%20from%20Array.md)
+- [2715. Timeout Cancellation](https://github.com/koshacha/leetcode/blob/main/JavaScript/2715.%20Timeout%20Cancellation.md)
 
 ![akarin laughing](.bash/yuruyuri.gif)
