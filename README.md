@@ -54,6 +54,7 @@
 - [206. Reverse Linked List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/206.%20Reverse%20Linked%20List.md)
 - [234. Palindrome Linked List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/234.%20Palindrome%20Linked%20List.md)
 - [876. Middle of the Linked List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/876.%20Middle%20of%20the%20Linked%20List.md)
+- [3217. Delete Nodes From Linked List Present in Array](https://github.com/koshacha/leetcode/blob/main/Linked%20List/3217.%20Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array.md)
 #### JavaScript
 - [2619. Array Prototype Last](https://github.com/koshacha/leetcode/blob/main/JavaScript/2619.%20Array%20Prototype%20Last.md)
 - [2620. Counter](https://github.com/koshacha/leetcode/blob/main/JavaScript/2620.%20Counter.md)
