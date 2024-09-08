@@ -53,6 +53,7 @@
 - [143. Reorder List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/143.%20Reorder%20List.md)
 - [206. Reverse Linked List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/206.%20Reverse%20Linked%20List.md)
 - [234. Palindrome Linked List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/234.%20Palindrome%20Linked%20List.md)
+- [725. Split Linked List in Parts](https://github.com/koshacha/leetcode/blob/main/Linked%20List/725.%20Split%20Linked%20List%20in%20Parts.md)
 - [876. Middle of the Linked List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/876.%20Middle%20of%20the%20Linked%20List.md)
 - [1367. Linked List in Binary Tree](https://github.com/koshacha/leetcode/blob/main/Linked%20List/1367.%20Linked%20List%20in%20Binary%20Tree.md)
 - [3217. Delete Nodes From Linked List Present in Array](https://github.com/koshacha/leetcode/blob/main/Linked%20List/3217.%20Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array.md)
