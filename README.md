@@ -68,6 +68,7 @@
 - [2629. Function Composition](https://github.com/koshacha/leetcode/blob/main/JavaScript/2629.%20Function%20Composition.md)
 - [2631. Group By](https://github.com/koshacha/leetcode/blob/main/JavaScript/2631.%20Group%20By.md)
 - [2634. Filter Elements from Array](https://github.com/koshacha/leetcode/blob/main/JavaScript/2634.%20Filter%20Elements%20from%20Array.md)
+- [2694. Event Emitter](https://github.com/koshacha/leetcode/blob/main/JavaScript/2694.%20Event%20Emitter.md)
 - [2715. Timeout Cancellation](https://github.com/koshacha/leetcode/blob/main/JavaScript/2715.%20Timeout%20Cancellation.md)
 
 ![akarin laughing](.bash/yuruyuri.gif)
