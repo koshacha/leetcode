@@ -6,6 +6,7 @@
 
 1. [Two Pointers](#two-pointers)
 1. [Graph](#graph)
+1. [Bit Manipulation](#bit-manipulation)
 1. [Array](#array)
 1. [Binary Tree](#binary-tree)
 1. [String](#string)
@@ -19,6 +20,8 @@
 - [283. Move Zeroes](https://github.com/koshacha/leetcode/blob/main/Two%20Pointers/283.%20Move%20Zeroes.md)
 #### Graph
 - [1514. Path with Maximum Probability](https://github.com/koshacha/leetcode/blob/main/Graph/1514.%20Path%20with%20Maximum%20Probability.md)
+#### Bit Manipulation
+- [2220. Minimum Bit Flips to Convert Number](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number.md)
 #### Array
 - [1. Two Sum](https://github.com/koshacha/leetcode/blob/main/Array/1.%20Two%20Sum.md)
 - [303. Range Sum Query - Immutable](https://github.com/koshacha/leetcode/blob/main/Array/303.%20Range%20Sum%20Query%20-%20Immutable.md)
