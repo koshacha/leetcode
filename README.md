@@ -21,6 +21,7 @@
 #### Graph
 - [1514. Path with Maximum Probability](https://github.com/koshacha/leetcode/blob/main/Graph/1514.%20Path%20with%20Maximum%20Probability.md)
 #### Bit Manipulation
+- [1310. XOR Queries of a Subarray](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/1310.%20XOR%20Queries%20of%20a%20Subarray.md)
 - [2220. Minimum Bit Flips to Convert Number](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number.md)
 #### Array
 - [1. Two Sum](https://github.com/koshacha/leetcode/blob/main/Array/1.%20Two%20Sum.md)
