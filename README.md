@@ -23,6 +23,7 @@
 #### Bit Manipulation
 - [1310. XOR Queries of a Subarray](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/1310.%20XOR%20Queries%20of%20a%20Subarray.md)
 - [2220. Minimum Bit Flips to Convert Number](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number.md)
+- [2419. Longest Subarray With Maximum Bitwise AND](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/2419.%20Longest%20Subarray%20With%20Maximum%20Bitwise%20AND.md)
 #### Array
 - [1. Two Sum](https://github.com/koshacha/leetcode/blob/main/Array/1.%20Two%20Sum.md)
 - [303. Range Sum Query - Immutable](https://github.com/koshacha/leetcode/blob/main/Array/303.%20Range%20Sum%20Query%20-%20Immutable.md)
