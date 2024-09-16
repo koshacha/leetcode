@@ -28,6 +28,7 @@
 #### Array
 - [1. Two Sum](https://github.com/koshacha/leetcode/blob/main/Array/1.%20Two%20Sum.md)
 - [303. Range Sum Query - Immutable](https://github.com/koshacha/leetcode/blob/main/Array/303.%20Range%20Sum%20Query%20-%20Immutable.md)
+- [539. Minimum Time Difference](https://github.com/koshacha/leetcode/blob/main/Array/539.%20Minimum%20Time%20Difference.md)
 - [724. Find Pivot Index](https://github.com/koshacha/leetcode/blob/main/Array/724.%20Find%20Pivot%20Index.md)
 - [874. Walking Robot Simulation](https://github.com/koshacha/leetcode/blob/main/Array/874.%20Walking%20Robot%20Simulation.md)
 - [1894. Find the Student that Will Replace the Chalk](https://github.com/koshacha/leetcode/blob/main/Array/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk.md)
