@@ -28,6 +28,7 @@
 #### Array
 - [1. Two Sum](https://github.com/koshacha/leetcode/blob/main/Array/1.%20Two%20Sum.md)
 - [11. Container With Most Water](https://github.com/koshacha/leetcode/blob/main/Array/11.%20Container%20With%20Most%20Water.md)
+- [36. Valid Sudoku](https://github.com/koshacha/leetcode/blob/main/Array/36.%20Valid%20Sudoku.md)
 - [303. Range Sum Query - Immutable](https://github.com/koshacha/leetcode/blob/main/Array/303.%20Range%20Sum%20Query%20-%20Immutable.md)
 - [539. Minimum Time Difference](https://github.com/koshacha/leetcode/blob/main/Array/539.%20Minimum%20Time%20Difference.md)
 - [724. Find Pivot Index](https://github.com/koshacha/leetcode/blob/main/Array/724.%20Find%20Pivot%20Index.md)
