@@ -78,6 +78,7 @@
 - [2220. Minimum Bit Flips to Convert Number](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number.md)
 - [2419. Longest Subarray With Maximum Bitwise AND](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/2419.%20Longest%20Subarray%20With%20Maximum%20Bitwise%20AND.md)
 #### String
+- [214. Shortest Palindrome](https://github.com/koshacha/leetcode/blob/main/String/214.%20Shortest%20Palindrome.md)
 - [241. Different Ways to Add Parentheses](https://github.com/koshacha/leetcode/blob/main/String/241.%20Different%20Ways%20to%20Add%20Parentheses.md)
 - [884. Uncommon Words from Two Sentences](https://github.com/koshacha/leetcode/blob/main/String/884.%20Uncommon%20Words%20from%20Two%20Sentences.md)
 - [1684. Count the Number of Consistent Strings](https://github.com/koshacha/leetcode/blob/main/String/1684.%20Count%20the%20Number%20of%20Consistent%20Strings.md)
