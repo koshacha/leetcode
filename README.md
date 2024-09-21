@@ -52,6 +52,7 @@
 - [36. Valid Sudoku](https://github.com/koshacha/leetcode/blob/main/Array/36.%20Valid%20Sudoku.md)
 - [179. Largest Number](https://github.com/koshacha/leetcode/blob/main/Array/179.%20Largest%20Number.md)
 - [303. Range Sum Query - Immutable](https://github.com/koshacha/leetcode/blob/main/Array/303.%20Range%20Sum%20Query%20-%20Immutable.md)
+- [386. Lexicographical Numbers](https://github.com/koshacha/leetcode/blob/main/Array/386.%20Lexicographical%20Numbers.md)
 - [539. Minimum Time Difference](https://github.com/koshacha/leetcode/blob/main/Array/539.%20Minimum%20Time%20Difference.md)
 - [724. Find Pivot Index](https://github.com/koshacha/leetcode/blob/main/Array/724.%20Find%20Pivot%20Index.md)
 - [874. Walking Robot Simulation](https://github.com/koshacha/leetcode/blob/main/Array/874.%20Walking%20Robot%20Simulation.md)
