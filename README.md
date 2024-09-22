@@ -11,6 +11,7 @@
 1. [Array](#array)
 1. [Linked List](#linked-list)
 1. [Bit Manipulation](#bit-manipulation)
+1. [Trie](#trie)
 1. [String](#string)
 1. [Two Pointers](#two-pointers)
 
@@ -78,6 +79,8 @@
 - [1371. Find the Longest Substring Containing Vowels in Even Counts](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/1371.%20Find%20the%20Longest%20Substring%20Containing%20Vowels%20in%20Even%20Counts.md)
 - [2220. Minimum Bit Flips to Convert Number](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number.md)
 - [2419. Longest Subarray With Maximum Bitwise AND](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/2419.%20Longest%20Subarray%20With%20Maximum%20Bitwise%20AND.md)
+#### Trie
+- [440. K-th Smallest in Lexicographical Order](https://github.com/koshacha/leetcode/blob/main/Trie/440.%20K-th%20Smallest%20in%20Lexicographical%20Order.md)
 #### String
 - [214. Shortest Palindrome](https://github.com/koshacha/leetcode/blob/main/String/214.%20Shortest%20Palindrome.md)
 - [241. Different Ways to Add Parentheses](https://github.com/koshacha/leetcode/blob/main/String/241.%20Different%20Ways%20to%20Add%20Parentheses.md)
