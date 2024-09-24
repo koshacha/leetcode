@@ -81,6 +81,7 @@
 - [2419. Longest Subarray With Maximum Bitwise AND](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/2419.%20Longest%20Subarray%20With%20Maximum%20Bitwise%20AND.md)
 #### Trie
 - [440. K-th Smallest in Lexicographical Order](https://github.com/koshacha/leetcode/blob/main/Trie/440.%20K-th%20Smallest%20in%20Lexicographical%20Order.md)
+- [3043. Find the Length of the Longest Common Prefix](https://github.com/koshacha/leetcode/blob/main/Trie/3043.%20Find%20the%20Length%20of%20the%20Longest%20Common%20Prefix.md)
 #### String
 - [214. Shortest Palindrome](https://github.com/koshacha/leetcode/blob/main/String/214.%20Shortest%20Palindrome.md)
 - [241. Different Ways to Add Parentheses](https://github.com/koshacha/leetcode/blob/main/String/241.%20Different%20Ways%20to%20Add%20Parentheses.md)
