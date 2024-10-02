@@ -60,6 +60,7 @@
 - [729. My Calendar I](https://github.com/koshacha/leetcode/blob/main/Array/729.%20My%20Calendar%20I.md)
 - [731. My Calendar II](https://github.com/koshacha/leetcode/blob/main/Array/731.%20My%20Calendar%20II.md)
 - [874. Walking Robot Simulation](https://github.com/koshacha/leetcode/blob/main/Array/874.%20Walking%20Robot%20Simulation.md)
+- [1331. Rank Transform of an Array](https://github.com/koshacha/leetcode/blob/main/Array/1331.%20Rank%20Transform%20of%20an%20Array.md)
 - [1381. Design a Stack With Increment Operation](https://github.com/koshacha/leetcode/blob/main/Array/1381.%20Design%20a%20Stack%20With%20Increment%20Operation.md)
 - [1497. Check If Array Pairs Are Divisible by k](https://github.com/koshacha/leetcode/blob/main/Array/1497.%20Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k.md)
 - [1894. Find the Student that Will Replace the Chalk](https://github.com/koshacha/leetcode/blob/main/Array/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk.md)
