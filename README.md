@@ -63,6 +63,7 @@
 - [1331. Rank Transform of an Array](https://github.com/koshacha/leetcode/blob/main/Array/1331.%20Rank%20Transform%20of%20an%20Array.md)
 - [1381. Design a Stack With Increment Operation](https://github.com/koshacha/leetcode/blob/main/Array/1381.%20Design%20a%20Stack%20With%20Increment%20Operation.md)
 - [1497. Check If Array Pairs Are Divisible by k](https://github.com/koshacha/leetcode/blob/main/Array/1497.%20Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k.md)
+- [1590. Make Sum Divisible by P](https://github.com/koshacha/leetcode/blob/main/Array/1590.%20Make%20Sum%20Divisible%20by%20P.md)
 - [1894. Find the Student that Will Replace the Chalk](https://github.com/koshacha/leetcode/blob/main/Array/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk.md)
 - [2022. Convert 1D Array Into 2D Array](https://github.com/koshacha/leetcode/blob/main/Array/2022.%20Convert%201D%20Array%20Into%202D%20Array.md)
 - [2028. Find Missing Observations](https://github.com/koshacha/leetcode/blob/main/Array/2028.%20Find%20Missing%20Observations.md)
