@@ -67,6 +67,7 @@
 - [1894. Find the Student that Will Replace the Chalk](https://github.com/koshacha/leetcode/blob/main/Array/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk.md)
 - [2022. Convert 1D Array Into 2D Array](https://github.com/koshacha/leetcode/blob/main/Array/2022.%20Convert%201D%20Array%20Into%202D%20Array.md)
 - [2028. Find Missing Observations](https://github.com/koshacha/leetcode/blob/main/Array/2028.%20Find%20Missing%20Observations.md)
+- [2491. Divide Players Into Teams of Equal Skill](https://github.com/koshacha/leetcode/blob/main/Array/2491.%20Divide%20Players%20Into%20Teams%20of%20Equal%20Skill.md)
 #### Linked List
 - [2. Add Two Numbers](https://github.com/koshacha/leetcode/blob/main/Linked%20List/2.%20Add%20Two%20Numbers.md)
 - [19. Remove Nth Node From End of List](https://github.com/koshacha/leetcode/blob/main/Linked%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
