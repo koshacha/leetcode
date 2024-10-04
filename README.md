@@ -13,7 +13,6 @@
 1. [Bit Manipulation](#bit-manipulation)
 1. [Trie](#trie)
 1. [String](#string)
-1. [Two Pointers](#two-pointers)
 
 ### Solutions
 
@@ -52,6 +51,7 @@
 - [11. Container With Most Water](https://github.com/koshacha/leetcode/blob/main/Array/11.%20Container%20With%20Most%20Water.md)
 - [36. Valid Sudoku](https://github.com/koshacha/leetcode/blob/main/Array/36.%20Valid%20Sudoku.md)
 - [179. Largest Number](https://github.com/koshacha/leetcode/blob/main/Array/179.%20Largest%20Number.md)
+- [283. Move Zeroes](https://github.com/koshacha/leetcode/blob/main/Array/283.%20Move%20Zeroes.md)
 - [303. Range Sum Query - Immutable](https://github.com/koshacha/leetcode/blob/main/Array/303.%20Range%20Sum%20Query%20-%20Immutable.md)
 - [386. Lexicographical Numbers](https://github.com/koshacha/leetcode/blob/main/Array/386.%20Lexicographical%20Numbers.md)
 - [539. Minimum Time Difference](https://github.com/koshacha/leetcode/blob/main/Array/539.%20Minimum%20Time%20Difference.md)
@@ -98,7 +98,5 @@
 - [1684. Count the Number of Consistent Strings](https://github.com/koshacha/leetcode/blob/main/String/1684.%20Count%20the%20Number%20of%20Consistent%20Strings.md)
 - [1945. Sum of Digits of String After Convert](https://github.com/koshacha/leetcode/blob/main/String/1945.%20Sum%20of%20Digits%20of%20String%20After%20Convert.md)
 - [3110. Score of a String](https://github.com/koshacha/leetcode/blob/main/String/3110.%20Score%20of%20a%20String.md)
-#### Two Pointers
-- [283. Move Zeroes](https://github.com/koshacha/leetcode/blob/main/Two%20Pointers/283.%20Move%20Zeroes.md)
 
 ![akarin laughing](.bash/yuruyuri.gif)
