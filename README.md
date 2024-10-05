@@ -94,6 +94,7 @@
 #### String
 - [214. Shortest Palindrome](https://github.com/koshacha/leetcode/blob/main/String/214.%20Shortest%20Palindrome.md)
 - [241. Different Ways to Add Parentheses](https://github.com/koshacha/leetcode/blob/main/String/241.%20Different%20Ways%20to%20Add%20Parentheses.md)
+- [567. Permutation in String](https://github.com/koshacha/leetcode/blob/main/String/567.%20Permutation%20in%20String.md)
 - [884. Uncommon Words from Two Sentences](https://github.com/koshacha/leetcode/blob/main/String/884.%20Uncommon%20Words%20from%20Two%20Sentences.md)
 - [1684. Count the Number of Consistent Strings](https://github.com/koshacha/leetcode/blob/main/String/1684.%20Count%20the%20Number%20of%20Consistent%20Strings.md)
 - [1945. Sum of Digits of String After Convert](https://github.com/koshacha/leetcode/blob/main/String/1945.%20Sum%20of%20Digits%20of%20String%20After%20Convert.md)
