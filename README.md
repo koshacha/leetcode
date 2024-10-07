@@ -99,6 +99,7 @@
 - [1684. Count the Number of Consistent Strings](https://github.com/koshacha/leetcode/blob/main/String/1684.%20Count%20the%20Number%20of%20Consistent%20Strings.md)
 - [1813. Sentence Similarity III](https://github.com/koshacha/leetcode/blob/main/String/1813.%20Sentence%20Similarity%20III.md)
 - [1945. Sum of Digits of String After Convert](https://github.com/koshacha/leetcode/blob/main/String/1945.%20Sum%20of%20Digits%20of%20String%20After%20Convert.md)
+- [2696. Minimum String Length After Removing Substrings](https://github.com/koshacha/leetcode/blob/main/String/2696.%20Minimum%20String%20Length%20After%20Removing%20Substrings.md)
 - [3110. Score of a String](https://github.com/koshacha/leetcode/blob/main/String/3110.%20Score%20of%20a%20String.md)
 
 ![akarin laughing](.bash/yuruyuri.gif)
