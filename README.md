@@ -27,6 +27,7 @@
 - [1945. Sum of Digits of String After Convert](https://github.com/koshacha/leetcode/blob/main/String/1945.%20Sum%20of%20Digits%20of%20String%20After%20Convert.md)
 - [1963. Minimum Number of Swaps to Make the String Balanced](https://github.com/koshacha/leetcode/blob/main/String/1963.%20Minimum%20Number%20of%20Swaps%20to%20Make%20the%20String%20Balanced.md)
 - [2696. Minimum String Length After Removing Substrings](https://github.com/koshacha/leetcode/blob/main/String/2696.%20Minimum%20String%20Length%20After%20Removing%20Substrings.md)
+- [2938. Separate Black and White Balls](https://github.com/koshacha/leetcode/blob/main/String/2938.%20Separate%20Black%20and%20White%20Balls.md)
 - [3110. Score of a String](https://github.com/koshacha/leetcode/blob/main/String/3110.%20Score%20of%20a%20String.md)
 #### Math
 - [9. Palindrome Number](https://github.com/koshacha/leetcode/blob/main/Math/9.%20Palindrome%20Number.md)
