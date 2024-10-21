@@ -24,6 +24,7 @@
 - [921. Minimum Add to Make Parentheses Valid](https://github.com/koshacha/leetcode/blob/main/String/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.md)
 - [1106. Parsing A Boolean Expression](https://github.com/koshacha/leetcode/blob/main/String/1106.%20Parsing%20A%20Boolean%20Expression.md)
 - [1405. Longest Happy String](https://github.com/koshacha/leetcode/blob/main/String/1405.%20Longest%20Happy%20String.md)
+- [1593. Split a String Into the Max Number of Unique Substrings](https://github.com/koshacha/leetcode/blob/main/String/1593.%20Split%20a%20String%20Into%20the%20Max%20Number%20of%20Unique%20Substrings.md)
 - [1684. Count the Number of Consistent Strings](https://github.com/koshacha/leetcode/blob/main/String/1684.%20Count%20the%20Number%20of%20Consistent%20Strings.md)
 - [1813. Sentence Similarity III](https://github.com/koshacha/leetcode/blob/main/String/1813.%20Sentence%20Similarity%20III.md)
 - [1945. Sum of Digits of String After Convert](https://github.com/koshacha/leetcode/blob/main/String/1945.%20Sum%20of%20Digits%20of%20String%20After%20Convert.md)
