@@ -94,6 +94,7 @@
 - [144. Binary Tree Preorder Traversal](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/144.%20Binary%20Tree%20Preorder%20Traversal.md)
 - [145. Binary Tree Postorder Traversal](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/145.%20Binary%20Tree%20Postorder%20Traversal.md)
 - [199. Binary Tree Right Side View](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/199.%20Binary%20Tree%20Right%20Side%20View.md)
+- [951. Flip Equivalent Binary Trees](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/951.%20Flip%20Equivalent%20Binary%20Trees.md)
 - [2583. Kth Largest Sum in a Binary Tree](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/2583.%20Kth%20Largest%20Sum%20in%20a%20Binary%20Tree.md)
 - [2641. Cousins in Binary Tree II](https://github.com/koshacha/leetcode/blob/main/Binary%20Tree/2641.%20Cousins%20in%20Binary%20Tree%20II.md)
 #### Linked List
