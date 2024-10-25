@@ -23,6 +23,7 @@
 - [884. Uncommon Words from Two Sentences](https://github.com/koshacha/leetcode/blob/main/String/884.%20Uncommon%20Words%20from%20Two%20Sentences.md)
 - [921. Minimum Add to Make Parentheses Valid](https://github.com/koshacha/leetcode/blob/main/String/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.md)
 - [1106. Parsing A Boolean Expression](https://github.com/koshacha/leetcode/blob/main/String/1106.%20Parsing%20A%20Boolean%20Expression.md)
+- [1233. Remove Sub-Folders from the Filesystem](https://github.com/koshacha/leetcode/blob/main/String/1233.%20Remove%20Sub-Folders%20from%20the%20Filesystem.md)
 - [1405. Longest Happy String](https://github.com/koshacha/leetcode/blob/main/String/1405.%20Longest%20Happy%20String.md)
 - [1593. Split a String Into the Max Number of Unique Substrings](https://github.com/koshacha/leetcode/blob/main/String/1593.%20Split%20a%20String%20Into%20the%20Max%20Number%20of%20Unique%20Substrings.md)
 - [1684. Count the Number of Consistent Strings](https://github.com/koshacha/leetcode/blob/main/String/1684.%20Count%20the%20Number%20of%20Consistent%20Strings.md)
