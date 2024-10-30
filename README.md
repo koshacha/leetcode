@@ -58,6 +58,7 @@
 - [1497. Check If Array Pairs Are Divisible by k](https://github.com/koshacha/leetcode/blob/main/Array/1497.%20Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k.md)
 - [1545. Find Kth Bit in Nth Binary String](https://github.com/koshacha/leetcode/blob/main/Array/1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String.md)
 - [1590. Make Sum Divisible by P](https://github.com/koshacha/leetcode/blob/main/Array/1590.%20Make%20Sum%20Divisible%20by%20P.md)
+- [1671. Minimum Number of Removals to Make Mountain Array](https://github.com/koshacha/leetcode/blob/main/Array/1671.%20Minimum%20Number%20of%20Removals%20to%20Make%20Mountain%20Array.md)
 - [1894. Find the Student that Will Replace the Chalk](https://github.com/koshacha/leetcode/blob/main/Array/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk.md)
 - [1942. The Number of the Smallest Unoccupied Chair](https://github.com/koshacha/leetcode/blob/main/Array/1942.%20The%20Number%20of%20the%20Smallest%20Unoccupied%20Chair.md)
 - [2022. Convert 1D Array Into 2D Array](https://github.com/koshacha/leetcode/blob/main/Array/2022.%20Convert%201D%20Array%20Into%202D%20Array.md)
