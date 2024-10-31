@@ -19,6 +19,7 @@
 #### String
 - [214. Shortest Palindrome](https://github.com/koshacha/leetcode/blob/main/String/214.%20Shortest%20Palindrome.md)
 - [241. Different Ways to Add Parentheses](https://github.com/koshacha/leetcode/blob/main/String/241.%20Different%20Ways%20to%20Add%20Parentheses.md)
+- [392. Is Subsequence](https://github.com/koshacha/leetcode/blob/main/String/392.%20Is%20Subsequence.md)
 - [567. Permutation in String](https://github.com/koshacha/leetcode/blob/main/String/567.%20Permutation%20in%20String.md)
 - [884. Uncommon Words from Two Sentences](https://github.com/koshacha/leetcode/blob/main/String/884.%20Uncommon%20Words%20from%20Two%20Sentences.md)
 - [921. Minimum Add to Make Parentheses Valid](https://github.com/koshacha/leetcode/blob/main/String/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.md)
