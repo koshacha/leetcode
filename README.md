@@ -64,6 +64,7 @@
 - [2022. Convert 1D Array Into 2D Array](https://github.com/koshacha/leetcode/blob/main/Array/2022.%20Convert%201D%20Array%20Into%202D%20Array.md)
 - [2028. Find Missing Observations](https://github.com/koshacha/leetcode/blob/main/Array/2028.%20Find%20Missing%20Observations.md)
 - [2044. Count Number of Maximum Bitwise-OR Subsets](https://github.com/koshacha/leetcode/blob/main/Array/2044.%20Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets.md)
+- [2239. Find Closest Number to Zero](https://github.com/koshacha/leetcode/blob/main/Array/2239.%20Find%20Closest%20Number%20to%20Zero.md)
 - [2463. Minimum Total Distance Traveled](https://github.com/koshacha/leetcode/blob/main/Array/2463.%20Minimum%20Total%20Distance%20Traveled.md)
 - [2491. Divide Players Into Teams of Equal Skill](https://github.com/koshacha/leetcode/blob/main/Array/2491.%20Divide%20Players%20Into%20Teams%20of%20Equal%20Skill.md)
 - [2501. Longest Square Streak in an Array](https://github.com/koshacha/leetcode/blob/main/Array/2501.%20Longest%20Square%20Streak%20in%20an%20Array.md)
