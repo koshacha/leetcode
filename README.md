@@ -38,6 +38,7 @@
 - [2696. Minimum String Length After Removing Substrings](https://github.com/koshacha/leetcode/blob/main/String/2696.%20Minimum%20String%20Length%20After%20Removing%20Substrings.md)
 - [2938. Separate Black and White Balls](https://github.com/koshacha/leetcode/blob/main/String/2938.%20Separate%20Black%20and%20White%20Balls.md)
 - [3110. Score of a String](https://github.com/koshacha/leetcode/blob/main/String/3110.%20Score%20of%20a%20String.md)
+- [3163. String Compression III](https://github.com/koshacha/leetcode/blob/main/String/3163.%20String%20Compression%20III.md)
 #### Math
 - [9. Palindrome Number](https://github.com/koshacha/leetcode/blob/main/Math/9.%20Palindrome%20Number.md)
 - [670. Maximum Swap](https://github.com/koshacha/leetcode/blob/main/Math/670.%20Maximum%20Swap.md)
