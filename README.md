@@ -76,6 +76,7 @@
 - [2491. Divide Players Into Teams of Equal Skill](https://github.com/koshacha/leetcode/blob/main/Array/2491.%20Divide%20Players%20Into%20Teams%20of%20Equal%20Skill.md)
 - [2501. Longest Square Streak in an Array](https://github.com/koshacha/leetcode/blob/main/Array/2501.%20Longest%20Square%20Streak%20in%20an%20Array.md)
 - [2530. Maximal Score After Applying K Operations](https://github.com/koshacha/leetcode/blob/main/Array/2530.%20Maximal%20Score%20After%20Applying%20K%20Operations.md)
+- [3011. Find if Array Can Be Sorted](https://github.com/koshacha/leetcode/blob/main/Array/3011.%20Find%20if%20Array%20Can%20Be%20Sorted.md)
 #### Bit Manipulation
 - [1310. XOR Queries of a Subarray](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/1310.%20XOR%20Queries%20of%20a%20Subarray.md)
 - [1371. Find the Longest Substring Containing Vowels in Even Counts](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/1371.%20Find%20the%20Longest%20Substring%20Containing%20Vowels%20in%20Even%20Counts.md)
