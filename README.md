@@ -80,6 +80,7 @@
 #### Bit Manipulation
 - [1310. XOR Queries of a Subarray](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/1310.%20XOR%20Queries%20of%20a%20Subarray.md)
 - [1371. Find the Longest Substring Containing Vowels in Even Counts](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/1371.%20Find%20the%20Longest%20Substring%20Containing%20Vowels%20in%20Even%20Counts.md)
+- [1829. Maximum XOR for Each Query](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/1829.%20Maximum%20XOR%20for%20Each%20Query.md)
 - [2220. Minimum Bit Flips to Convert Number](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number.md)
 - [2275. Largest Combination With Bitwise AND Greater Than Zero](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/2275.%20Largest%20Combination%20With%20Bitwise%20AND%20Greater%20Than%20Zero.md)
 - [2419. Longest Subarray With Maximum Bitwise AND](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/2419.%20Longest%20Subarray%20With%20Maximum%20Bitwise%20AND.md)
