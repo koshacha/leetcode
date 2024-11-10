@@ -84,6 +84,7 @@
 - [2220. Minimum Bit Flips to Convert Number](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number.md)
 - [2275. Largest Combination With Bitwise AND Greater Than Zero](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/2275.%20Largest%20Combination%20With%20Bitwise%20AND%20Greater%20Than%20Zero.md)
 - [2419. Longest Subarray With Maximum Bitwise AND](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/2419.%20Longest%20Subarray%20With%20Maximum%20Bitwise%20AND.md)
+- [3097. Shortest Subarray With OR at Least K II](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/3097.%20Shortest%20Subarray%20With%20OR%20at%20Least%20K%20II.md)
 #### JavaScript
 - [2619. Array Prototype Last](https://github.com/koshacha/leetcode/blob/main/JavaScript/2619.%20Array%20Prototype%20Last.md)
 - [2620. Counter](https://github.com/koshacha/leetcode/blob/main/JavaScript/2620.%20Counter.md)
