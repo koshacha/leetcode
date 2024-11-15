@@ -64,6 +64,7 @@
 - [1381. Design a Stack With Increment Operation](https://github.com/koshacha/leetcode/blob/main/Array/1381.%20Design%20a%20Stack%20With%20Increment%20Operation.md)
 - [1497. Check If Array Pairs Are Divisible by k](https://github.com/koshacha/leetcode/blob/main/Array/1497.%20Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k.md)
 - [1545. Find Kth Bit in Nth Binary String](https://github.com/koshacha/leetcode/blob/main/Array/1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String.md)
+- [1574. Shortest Subarray to be Removed to Make Array Sorted](https://github.com/koshacha/leetcode/blob/main/Array/1574.%20Shortest%20Subarray%20to%20be%20Removed%20to%20Make%20Array%20Sorted.md)
 - [1590. Make Sum Divisible by P](https://github.com/koshacha/leetcode/blob/main/Array/1590.%20Make%20Sum%20Divisible%20by%20P.md)
 - [1671. Minimum Number of Removals to Make Mountain Array](https://github.com/koshacha/leetcode/blob/main/Array/1671.%20Minimum%20Number%20of%20Removals%20to%20Make%20Mountain%20Array.md)
 - [1894. Find the Student that Will Replace the Chalk](https://github.com/koshacha/leetcode/blob/main/Array/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk.md)
