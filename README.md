@@ -80,6 +80,7 @@
 - [2530. Maximal Score After Applying K Operations](https://github.com/koshacha/leetcode/blob/main/Array/2530.%20Maximal%20Score%20After%20Applying%20K%20Operations.md)
 - [2601. Prime Subtraction Operation](https://github.com/koshacha/leetcode/blob/main/Array/2601.%20Prime%20Subtraction%20Operation.md)
 - [3011. Find if Array Can Be Sorted](https://github.com/koshacha/leetcode/blob/main/Array/3011.%20Find%20if%20Array%20Can%20Be%20Sorted.md)
+- [3254. Find the Power of K-Size Subarrays I](https://github.com/koshacha/leetcode/blob/main/Array/3254.%20Find%20the%20Power%20of%20K-Size%20Subarrays%20I.md)
 #### Bit Manipulation
 - [1310. XOR Queries of a Subarray](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/1310.%20XOR%20Queries%20of%20a%20Subarray.md)
 - [1371. Find the Longest Substring Containing Vowels in Even Counts](https://github.com/koshacha/leetcode/blob/main/Bit%20Manipulation/1371.%20Find%20the%20Longest%20Substring%20Containing%20Vowels%20in%20Even%20Counts.md)
