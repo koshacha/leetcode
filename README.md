@@ -75,6 +75,7 @@
 - [2044. Count Number of Maximum Bitwise-OR Subsets](https://github.com/koshacha/leetcode/blob/main/Array/2044.%20Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets.md)
 - [2070. Most Beautiful Item for Each Query](https://github.com/koshacha/leetcode/blob/main/Array/2070.%20Most%20Beautiful%20Item%20for%20Each%20Query.md)
 - [2239. Find Closest Number to Zero](https://github.com/koshacha/leetcode/blob/main/Array/2239.%20Find%20Closest%20Number%20to%20Zero.md)
+- [2257. Count Unguarded Cells in the Grid](https://github.com/koshacha/leetcode/blob/main/Array/2257.%20Count%20Unguarded%20Cells%20in%20the%20Grid.md)
 - [2461. Maximum Sum of Distinct Subarrays With Length K](https://github.com/koshacha/leetcode/blob/main/Array/2461.%20Maximum%20Sum%20of%20Distinct%20Subarrays%20With%20Length%20K.md)
 - [2463. Minimum Total Distance Traveled](https://github.com/koshacha/leetcode/blob/main/Array/2463.%20Minimum%20Total%20Distance%20Traveled.md)
 - [2491. Divide Players Into Teams of Equal Skill](https://github.com/koshacha/leetcode/blob/main/Array/2491.%20Divide%20Players%20Into%20Teams%20of%20Equal%20Skill.md)
