@@ -59,6 +59,7 @@
 - [731. My Calendar II](https://github.com/koshacha/leetcode/blob/main/Array/731.%20My%20Calendar%20II.md)
 - [874. Walking Robot Simulation](https://github.com/koshacha/leetcode/blob/main/Array/874.%20Walking%20Robot%20Simulation.md)
 - [962. Maximum Width Ramp](https://github.com/koshacha/leetcode/blob/main/Array/962.%20Maximum%20Width%20Ramp.md)
+- [1072. Flip Columns For Maximum Number of Equal Rows](https://github.com/koshacha/leetcode/blob/main/Array/1072.%20Flip%20Columns%20For%20Maximum%20Number%20of%20Equal%20Rows.md)
 - [1277. Count Square Submatrices with All Ones](https://github.com/koshacha/leetcode/blob/main/Array/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones.md)
 - [1331. Rank Transform of an Array](https://github.com/koshacha/leetcode/blob/main/Array/1331.%20Rank%20Transform%20of%20an%20Array.md)
 - [1381. Design a Stack With Increment Operation](https://github.com/koshacha/leetcode/blob/main/Array/1381.%20Design%20a%20Stack%20With%20Increment%20Operation.md)
