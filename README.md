@@ -69,6 +69,7 @@
 - [1590. Make Sum Divisible by P](https://github.com/koshacha/leetcode/blob/main/Array/1590.%20Make%20Sum%20Divisible%20by%20P.md)
 - [1652. Defuse the Bomb](https://github.com/koshacha/leetcode/blob/main/Array/1652.%20Defuse%20the%20Bomb.md)
 - [1671. Minimum Number of Removals to Make Mountain Array](https://github.com/koshacha/leetcode/blob/main/Array/1671.%20Minimum%20Number%20of%20Removals%20to%20Make%20Mountain%20Array.md)
+- [1861. Rotating the Box](https://github.com/koshacha/leetcode/blob/main/Array/1861.%20Rotating%20the%20Box.md)
 - [1894. Find the Student that Will Replace the Chalk](https://github.com/koshacha/leetcode/blob/main/Array/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk.md)
 - [1942. The Number of the Smallest Unoccupied Chair](https://github.com/koshacha/leetcode/blob/main/Array/1942.%20The%20Number%20of%20the%20Smallest%20Unoccupied%20Chair.md)
 - [2022. Convert 1D Array Into 2D Array](https://github.com/koshacha/leetcode/blob/main/Array/2022.%20Convert%201D%20Array%20Into%202D%20Array.md)
