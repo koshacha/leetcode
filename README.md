@@ -28,6 +28,7 @@
 - [1106. Parsing A Boolean Expression](https://github.com/koshacha/leetcode/blob/main/String/1106.%20Parsing%20A%20Boolean%20Expression.md)
 - [1233. Remove Sub-Folders from the Filesystem](https://github.com/koshacha/leetcode/blob/main/String/1233.%20Remove%20Sub-Folders%20from%20the%20Filesystem.md)
 - [1405. Longest Happy String](https://github.com/koshacha/leetcode/blob/main/String/1405.%20Longest%20Happy%20String.md)
+- [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://github.com/koshacha/leetcode/blob/main/String/1455.%20Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence.md)
 - [1593. Split a String Into the Max Number of Unique Substrings](https://github.com/koshacha/leetcode/blob/main/String/1593.%20Split%20a%20String%20Into%20the%20Max%20Number%20of%20Unique%20Substrings.md)
 - [1684. Count the Number of Consistent Strings](https://github.com/koshacha/leetcode/blob/main/String/1684.%20Count%20the%20Number%20of%20Consistent%20Strings.md)
 - [1768. Merge Strings Alternately](https://github.com/koshacha/leetcode/blob/main/String/1768.%20Merge%20Strings%20Alternately.md)
