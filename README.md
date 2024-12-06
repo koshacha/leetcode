@@ -89,6 +89,7 @@
 - [2491. Divide Players Into Teams of Equal Skill](https://github.com/koshacha/leetcode/blob/main/Array/2491.%20Divide%20Players%20Into%20Teams%20of%20Equal%20Skill.md)
 - [2501. Longest Square Streak in an Array](https://github.com/koshacha/leetcode/blob/main/Array/2501.%20Longest%20Square%20Streak%20in%20an%20Array.md)
 - [2530. Maximal Score After Applying K Operations](https://github.com/koshacha/leetcode/blob/main/Array/2530.%20Maximal%20Score%20After%20Applying%20K%20Operations.md)
+- [2554. Maximum Number of Integers to Choose From a Range I](https://github.com/koshacha/leetcode/blob/main/Array/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.md)
 - [2601. Prime Subtraction Operation](https://github.com/koshacha/leetcode/blob/main/Array/2601.%20Prime%20Subtraction%20Operation.md)
 - [2924. Find Champion II](https://github.com/koshacha/leetcode/blob/main/Array/2924.%20Find%20Champion%20II.md)
 - [3011. Find if Array Can Be Sorted](https://github.com/koshacha/leetcode/blob/main/Array/3011.%20Find%20if%20Array%20Can%20Be%20Sorted.md)
