@@ -41,6 +41,7 @@
 - [2825. Make String a Subsequence Using Cyclic Increments](https://github.com/koshacha/leetcode/blob/main/String/2825.%20Make%20String%20a%20Subsequence%20Using%20Cyclic%20Increments.md)
 - [2914. Minimum Number of Changes to Make Binary String Beautiful](https://github.com/koshacha/leetcode/blob/main/String/2914.%20Minimum%20Number%20of%20Changes%20to%20Make%20Binary%20String%20Beautiful.md)
 - [2938. Separate Black and White Balls](https://github.com/koshacha/leetcode/blob/main/String/2938.%20Separate%20Black%20and%20White%20Balls.md)
+- [2981. Find Longest Special Substring That Occurs Thrice I](https://github.com/koshacha/leetcode/blob/main/String/2981.%20Find%20Longest%20Special%20Substring%20That%20Occurs%20Thrice%20I.md)
 - [3110. Score of a String](https://github.com/koshacha/leetcode/blob/main/String/3110.%20Score%20of%20a%20String.md)
 - [3163. String Compression III](https://github.com/koshacha/leetcode/blob/main/String/3163.%20String%20Compression%20III.md)
 #### Math
