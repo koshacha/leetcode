@@ -91,6 +91,7 @@
 - [2501. Longest Square Streak in an Array](https://github.com/koshacha/leetcode/blob/main/Array/2501.%20Longest%20Square%20Streak%20in%20an%20Array.md)
 - [2530. Maximal Score After Applying K Operations](https://github.com/koshacha/leetcode/blob/main/Array/2530.%20Maximal%20Score%20After%20Applying%20K%20Operations.md)
 - [2554. Maximum Number of Integers to Choose From a Range I](https://github.com/koshacha/leetcode/blob/main/Array/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.md)
+- [2558. Take Gifts From the Richest Pile](https://github.com/koshacha/leetcode/blob/main/Array/2558.%20Take%20Gifts%20From%20the%20Richest%20Pile.md)
 - [2601. Prime Subtraction Operation](https://github.com/koshacha/leetcode/blob/main/Array/2601.%20Prime%20Subtraction%20Operation.md)
 - [2779. Maximum Beauty of an Array After Applying Operation](https://github.com/koshacha/leetcode/blob/main/Array/2779.%20Maximum%20Beauty%20of%20an%20Array%20After%20Applying%20Operation.md)
 - [2924. Find Champion II](https://github.com/koshacha/leetcode/blob/main/Array/2924.%20Find%20Champion%20II.md)
