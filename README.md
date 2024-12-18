@@ -68,6 +68,7 @@
 - [1331. Rank Transform of an Array](https://github.com/koshacha/leetcode/blob/main/Array/1331.%20Rank%20Transform%20of%20an%20Array.md)
 - [1346. Check If N and Its Double Exist](https://github.com/koshacha/leetcode/blob/main/Array/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.md)
 - [1381. Design a Stack With Increment Operation](https://github.com/koshacha/leetcode/blob/main/Array/1381.%20Design%20a%20Stack%20With%20Increment%20Operation.md)
+- [1475. Final Prices With a Special Discount in a Shop](https://github.com/koshacha/leetcode/blob/main/Array/1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop.md)
 - [1497. Check If Array Pairs Are Divisible by k](https://github.com/koshacha/leetcode/blob/main/Array/1497.%20Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k.md)
 - [1545. Find Kth Bit in Nth Binary String](https://github.com/koshacha/leetcode/blob/main/Array/1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String.md)
 - [1574. Shortest Subarray to be Removed to Make Array Sorted](https://github.com/koshacha/leetcode/blob/main/Array/1574.%20Shortest%20Subarray%20to%20be%20Removed%20to%20Make%20Array%20Sorted.md)
