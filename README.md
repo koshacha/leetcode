@@ -52,6 +52,7 @@
 - [283. Move Zeroes](https://github.com/koshacha/leetcode/blob/main/Array/283.%20Move%20Zeroes.md)
 - [303. Range Sum Query - Immutable](https://github.com/koshacha/leetcode/blob/main/Array/303.%20Range%20Sum%20Query%20-%20Immutable.md)
 - [386. Lexicographical Numbers](https://github.com/koshacha/leetcode/blob/main/Array/386.%20Lexicographical%20Numbers.md)
+- [494. Target Sum](https://github.com/koshacha/leetcode/blob/main/Array/494.%20Target%20Sum.md)
 - [539. Minimum Time Difference](https://github.com/koshacha/leetcode/blob/main/Array/539.%20Minimum%20Time%20Difference.md)
 - [632. Smallest Range Covering Elements from K Lists](https://github.com/koshacha/leetcode/blob/main/Array/632.%20Smallest%20Range%20Covering%20Elements%20from%20K%20Lists.md)
 - [641. Design Circular Deque](https://github.com/koshacha/leetcode/blob/main/Array/641.%20Design%20Circular%20Deque.md)
