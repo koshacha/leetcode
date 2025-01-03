@@ -88,6 +88,7 @@
 - [2070. Most Beautiful Item for Each Query](https://github.com/koshacha/leetcode/blob/main/Array/2070.%20Most%20Beautiful%20Item%20for%20Each%20Query.md)
 - [2239. Find Closest Number to Zero](https://github.com/koshacha/leetcode/blob/main/Array/2239.%20Find%20Closest%20Number%20to%20Zero.md)
 - [2257. Count Unguarded Cells in the Grid](https://github.com/koshacha/leetcode/blob/main/Array/2257.%20Count%20Unguarded%20Cells%20in%20the%20Grid.md)
+- [2270. Number of Ways to Split Array](https://github.com/koshacha/leetcode/blob/main/Array/2270.%20Number%20of%20Ways%20to%20Split%20Array.md)
 - [2290. Minimum Obstacle Removal to Reach Corner](https://github.com/koshacha/leetcode/blob/main/Array/2290.%20Minimum%20Obstacle%20Removal%20to%20Reach%20Corner.md)
 - [2461. Maximum Sum of Distinct Subarrays With Length K](https://github.com/koshacha/leetcode/blob/main/Array/2461.%20Maximum%20Sum%20of%20Distinct%20Subarrays%20With%20Length%20K.md)
 - [2463. Minimum Total Distance Traveled](https://github.com/koshacha/leetcode/blob/main/Array/2463.%20Minimum%20Total%20Distance%20Traveled.md)
