@@ -36,6 +36,7 @@
 - [1945. Sum of Digits of String After Convert](https://github.com/koshacha/leetcode/blob/main/String/1945.%20Sum%20of%20Digits%20of%20String%20After%20Convert.md)
 - [1957. Delete Characters to Make Fancy String](https://github.com/koshacha/leetcode/blob/main/String/1957.%20Delete%20Characters%20to%20Make%20Fancy%20String.md)
 - [1963. Minimum Number of Swaps to Make the String Balanced](https://github.com/koshacha/leetcode/blob/main/String/1963.%20Minimum%20Number%20of%20Swaps%20to%20Make%20the%20String%20Balanced.md)
+- [2381. Shifting Letters II](https://github.com/koshacha/leetcode/blob/main/String/2381.%20Shifting%20Letters%20II.md)
 - [2466. Count Ways To Build Good Strings](https://github.com/koshacha/leetcode/blob/main/String/2466.%20Count%20Ways%20To%20Build%20Good%20Strings.md)
 - [2490. Circular Sentence](https://github.com/koshacha/leetcode/blob/main/String/2490.%20Circular%20Sentence.md)
 - [2559. Count Vowel Strings in Ranges](https://github.com/koshacha/leetcode/blob/main/String/2559.%20Count%20Vowel%20Strings%20in%20Ranges.md)
