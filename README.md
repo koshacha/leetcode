@@ -27,6 +27,7 @@
 - [921. Minimum Add to Make Parentheses Valid](https://github.com/koshacha/leetcode/blob/main/String/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.md)
 - [1106. Parsing A Boolean Expression](https://github.com/koshacha/leetcode/blob/main/String/1106.%20Parsing%20A%20Boolean%20Expression.md)
 - [1233. Remove Sub-Folders from the Filesystem](https://github.com/koshacha/leetcode/blob/main/String/1233.%20Remove%20Sub-Folders%20from%20the%20Filesystem.md)
+- [1400. Construct K Palindrome Strings](https://github.com/koshacha/leetcode/blob/main/String/1400.%20Construct%20K%20Palindrome%20Strings.md)
 - [1405. Longest Happy String](https://github.com/koshacha/leetcode/blob/main/String/1405.%20Longest%20Happy%20String.md)
 - [1408. String Matching in an Array](https://github.com/koshacha/leetcode/blob/main/String/1408.%20String%20Matching%20in%20an%20Array.md)
 - [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://github.com/koshacha/leetcode/blob/main/String/1455.%20Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence.md)
