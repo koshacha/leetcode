@@ -51,6 +51,7 @@
 - [3042. Count Prefix and Suffix Pairs I](https://github.com/koshacha/leetcode/blob/main/String/3042.%20Count%20Prefix%20and%20Suffix%20Pairs%20I.md)
 - [3110. Score of a String](https://github.com/koshacha/leetcode/blob/main/String/3110.%20Score%20of%20a%20String.md)
 - [3163. String Compression III](https://github.com/koshacha/leetcode/blob/main/String/3163.%20String%20Compression%20III.md)
+- [3223. Minimum Length of String After Operations](https://github.com/koshacha/leetcode/blob/main/String/3223.%20Minimum%20Length%20of%20String%20After%20Operations.md)
 #### Array
 - [1. Two Sum](https://github.com/koshacha/leetcode/blob/main/Array/1.%20Two%20Sum.md)
 - [11. Container With Most Water](https://github.com/koshacha/leetcode/blob/main/Array/11.%20Container%20With%20Most%20Water.md)
