@@ -141,6 +141,7 @@
 #### Math
 - [9. Palindrome Number](https://github.com/koshacha/leetcode/blob/main/Math/9.%20Palindrome%20Number.md)
 - [670. Maximum Swap](https://github.com/koshacha/leetcode/blob/main/Math/670.%20Maximum%20Swap.md)
+- [2683. Neighboring Bitwise XOR](https://github.com/koshacha/leetcode/blob/main/Math/2683.%20Neighboring%20Bitwise%20XOR.md)
 #### Trie
 - [440. K-th Smallest in Lexicographical Order](https://github.com/koshacha/leetcode/blob/main/Trie/440.%20K-th%20Smallest%20in%20Lexicographical%20Order.md)
 - [2416. Sum of Prefix Scores of Strings](https://github.com/koshacha/leetcode/blob/main/Trie/2416.%20Sum%20of%20Prefix%20Scores%20of%20Strings.md)
