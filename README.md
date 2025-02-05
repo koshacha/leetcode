@@ -53,6 +53,7 @@
 - [1593. Split a String Into the Max Number of Unique Substrings](https://github.com/koshacha/leetcode/blob/main/String/1593.%20Split%20a%20String%20Into%20the%20Max%20Number%20of%20Unique%20Substrings.md)
 - [1684. Count the Number of Consistent Strings](https://github.com/koshacha/leetcode/blob/main/String/1684.%20Count%20the%20Number%20of%20Consistent%20Strings.md)
 - [1768. Merge Strings Alternately](https://github.com/koshacha/leetcode/blob/main/String/1768.%20Merge%20Strings%20Alternately.md)
+- [1790. Check if One String Swap Can Make Strings Equal](https://github.com/koshacha/leetcode/blob/main/String/1790.%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal.md)
 - [1813. Sentence Similarity III](https://github.com/koshacha/leetcode/blob/main/String/1813.%20Sentence%20Similarity%20III.md)
 - [1945. Sum of Digits of String After Convert](https://github.com/koshacha/leetcode/blob/main/String/1945.%20Sum%20of%20Digits%20of%20String%20After%20Convert.md)
 - [1957. Delete Characters to Make Fancy String](https://github.com/koshacha/leetcode/blob/main/String/1957.%20Delete%20Characters%20to%20Make%20Fancy%20String.md)
