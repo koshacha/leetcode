@@ -31,6 +31,7 @@
 #### Math
 - [9. Palindrome Number](https://github.com/koshacha/leetcode/blob/main/Math/9.%20Palindrome%20Number.md)
 - [670. Maximum Swap](https://github.com/koshacha/leetcode/blob/main/Math/670.%20Maximum%20Swap.md)
+- [1726. Tuple with Same Product](https://github.com/koshacha/leetcode/blob/main/Math/1726.%20Tuple%20with%20Same%20Product.md)
 - [2683. Neighboring Bitwise XOR](https://github.com/koshacha/leetcode/blob/main/Math/2683.%20Neighboring%20Bitwise%20XOR.md)
 #### Graph
 - [802. Find Eventual Safe States](https://github.com/koshacha/leetcode/blob/main/Graph/802.%20Find%20Eventual%20Safe%20States.md)
